@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: Tor's homepage
-description: Will build this as an portefolio.
+relative_links:
+  enabled: true
+  collections: true
