@@ -18,6 +18,10 @@ Time series. [QuestDB + Graphana](https://github.com/TorOEkle/time-series)
 ## Julia and electricity Markets
 I find electricity markets interesting and this [Course on Electricity Markets](https://mreguant.github.io/em-course/) was a good opportunity to combine that with learning Julia.
 
+# Skeleton project
+Here I wish to set up a skeleton project of the tech stack I have worked most with. **Dagster** as orchestration tool for ETL with Python, **Neo4j** as database and **GraphQL** as API. 
+
+
 
 
 
